@@ -45,7 +45,7 @@ To design and implement a simplified endoscopic system that allows directional c
 - 
 ## Full Report
 The full project report can be found here:
-[Project Report](report/Monitors_Task_3.pdf)
+[Project Report](report/Monitors Task 3.pdf)
 
 ## Authors
 Biomedical Engineering Students  
